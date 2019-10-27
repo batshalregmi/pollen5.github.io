@@ -1,0 +1,4 @@
+{% jekyll.environment == "production" and page.comments %}
+  {% include disqus.html %}
+  {{ content }}
+{% endif %}
