@@ -14,6 +14,6 @@ A little about my previous and current experience:
 - Deployed to production with Nginx
 - Used React as a frontend framework.
 - Have experience developing compilers with Flex/Bison and writing Virtual Machines.
-- Experience programming in Java/C/C++/JavaScript/C#/Lua/Go/Ruby/Python
+- Experience programming in Java, C, C++, JavaScript, C#, Lua, Go, Ruby and Python.
 - A little experience building android apps with Java.
 - A little eperience developing games in Java with LibGDX.
