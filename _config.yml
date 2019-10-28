@@ -32,6 +32,7 @@ github_username:  pollen5
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Disqus Comments
 disqus:
