@@ -38,6 +38,7 @@ disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
     shortname: pollens-blog
+google_analytics: UA-151050317-1
 
 defaults:
   -
